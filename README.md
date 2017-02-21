@@ -14,7 +14,9 @@ Any user that loves running and wants to log, track, or record daily runs with a
 
 ---
 
+<img width="859" alt="screen shot 2017-02-20 at 5 03 38 pm" src="https://cloud.githubusercontent.com/assets/13802107/23145824/b6fb5476-f78e-11e6-8d53-984534b65344.png">
 
+<img width="860" alt="screen shot 2017-02-20 at 5 04 01 pm" src="https://cloud.githubusercontent.com/assets/13802107/23145825/baa2d202-f78e-11e6-8243-ad264e96f055.png">
 
 ---
 
