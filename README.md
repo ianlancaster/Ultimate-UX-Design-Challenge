@@ -64,8 +64,7 @@ Pages:
 
 ### Target User
 
-* 25-40yrs old
-* English-speaking
-* $45-75k yearly income
+* Runner, or getting into running/jogging and setting goals
+* Any age
 * Beginner-intermediate level workout regimen
-* Looking for a simple app to set simple goals
+* Looking for a simple app to set amount of miles per week as a goal, or time/mile to try to beat
