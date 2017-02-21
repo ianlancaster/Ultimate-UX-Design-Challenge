@@ -40,15 +40,11 @@ Design a user dashboard for a fitness tracking app. It must include the followin
 
 Pages:
 
-* Goals
+* Login
+* Home / Longterm Goals
+* Today
 * Calendar
-* Log
-* Me
-
-Goal:
-
-* Title
-* Metric
+* Settings
 
 ---
 
