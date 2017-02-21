@@ -14,6 +14,10 @@ Any user that loves running and wants to log, track, or record daily runs with a
 
 ---
 
+
+
+---
+
 This project was setup for us to work through the life cycle of a project brief: design, build, and client review/critique. Each of the “project life cycle stages” was broken out as a phase of the project, including one week to complete each phase. 
 
 In week 1, we generated wireframes and a comp in Sketch. Final comps are to include mobile and desktop layouts and button/hover/active/ states--ready to hand-off to a deve team to build. In week 2, we switched comps with another team to build. In week 3, we participated in a formal group critique of both comps and static sites lead by our instructors at Turing.
